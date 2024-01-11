@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "soos_sample_project"
-  s.version     = "1.0.2"
+  s.version     = "1.0.4"
   s.add_runtime_dependency "active_attr",
     ["= 0.15.2"]
   s.add_runtime_dependency "3scale-client",
